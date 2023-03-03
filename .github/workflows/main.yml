@@ -1,0 +1,2 @@
+- name: setup-scala
+  uses: olafurpg/setup-scala@v10
